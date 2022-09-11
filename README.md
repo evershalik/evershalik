@@ -1,18 +1,16 @@
-<h1 align="center" href="#"><img width="100%" height="auto" src="https://github.com/sha-lik/Images/blob/main/shankar.jpg?raw=true" height="175px"/></h1>
+[//]: <> ( <h1 align="center" href="#"><img width="100%" height="auto" src="https://github.com/sha-lik/Images/blob/main/shankar.jpg?raw=true" height="175px"/></h1> )
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm SHANKAR</h1>
-<h3 align="center">I'm a curious Cloud Enthusiast <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm SHANKAR.</h1>
+<h3 align="center">I'm a 5G 📶 & Cloud Enthusiast <img src="https://cdn.pixabay.com/photo/2018/04/18/18/56/cloud-3331240_1280.png" width="30px"> </h3>
 
 
 
 ## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 
-- 🔭 I’m currently working on **Cloud Computing**
+- 📡 I’m currently working on **5G-NR**
 
-- 🌱 I’m currently learning **Openstack**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔓 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/sha-lik?tab=repositories)**
 
@@ -61,7 +59,7 @@
 
 <a href = "https://www.linkedin.com/in/shankar-malik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Shankar_2106"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/shankar_2106/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/shalik_00/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
