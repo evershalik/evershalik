@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/evershalik?tab=repositories)**
 
-- 📫 How to reach me **shankarmalik21062003@gmail.com**
+- 📫 How to reach me **Shankar.s@ramanujan.du.ac.in**
 
-- ⚡ Fun fact **I am introvert**
+<!-- - ⚡ Fun fact **I am introvert** -->
 
 <br/>
 
