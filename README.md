@@ -58,8 +58,8 @@
 <p align="left">
 <!-- <a href ="https://linktr.ee/sha_lik"><img src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" width="30px" height="30px"></a> -->
  <a href = "https://www.linkedin.com/in/shankar-malik/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> 
- <a href = "https://twitter.com/Shankar_2106"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
- <a href = "https://www.instagram.com/shalik_00/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
+ <a href = "https://twitter.com/evershalik"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
+ <a href = "https://www.instagram.com/evershalik/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> 
 
 
 </p>
