@@ -1,11 +1,11 @@
 
 
-<!-- ## 🙋‍♂️ About Me -->
+## 🙋‍♂️ About Me
 <!-- <h2 align="left"> <img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="30px"> About Me</h2> -->
 - 👋 Hi, I am **SHANKAR**
 - 📡 I’m currently working on **5G and Cloud**
 - ☁️ I have also worked on **Openstack**
-- 📧 Reach out to me: **shankar.s@ramanujan.du.ac.in**
+- ✉️ Reach out to me: **shankar.s@ramanujan.du.ac.in**
 
 <!-- - 📫 How to reach me **xtraddybot@gmail.com**, LinkedIn: **https://www.linkedin.com/in/aditya-koranga-061517220/** -->
 
